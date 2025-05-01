@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Burlington, WY</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Burlington, WY</h1>
+    <nav>
+      <ul>
+        <li><a href="#news">News</a></li>
+        <li><a href="#events">Events</a></li>
+        <li><a href="#services">Local Services</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Welcome to Burlington, Wyoming</h2>
+    <p>Your small town with a big heart.</p>
+  </section>
+
+  <section id="news">
+    <h2>Latest News</h2>
+    <ul>
+      <li><strong>May 1, 2025:</strong> Spring cleanup day announced for May 10th.</li>
+      <li><strong>April 20, 2025:</strong> Town council meeting summary posted.</li>
+    </ul>
+  </section>
